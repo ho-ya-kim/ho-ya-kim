@@ -2,6 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=225&section=header&text=HoyaKim&fontSize=90&animation=fadeIn&fontAlignY=38"/>
 </p>
 
+## Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohokim-hoya)
+
 ## WakaTime
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2020%20mins-blue)
