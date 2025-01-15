@@ -3,7 +3,10 @@
 </p>
 
 ## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohokim-hoya)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohokim-hoya)-->
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hoyakim">
+</p>
 
 ## WakaTime
 <!--START_SECTION:waka-->
