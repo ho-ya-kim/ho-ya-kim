@@ -4,9 +4,12 @@
 
 ## Languages
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seohokim-hoya&count-private=true">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hoyakim">
+<img align='center' src="https://github-readme-stats-zeta-azure-78.vercel.app/api/top-langs/?username=seohokim-hoya&langs_count=18&layout=compact&theme=dracula">
+<img align='center' src="https://github-readme-stats.vercel.app/api/wakatime?username=hoyakim">
 </p>
+
+
+
 
 ## WakaTime
 <!--START_SECTION:waka-->
