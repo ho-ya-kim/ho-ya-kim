@@ -1,5 +1,8 @@
-## Hi there 👋
+<p align='center'>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=225&section=header&text=HoyaKim&fontSize=90&animation=fadeIn&fontAlignY=38"/>
+</p>
 
+## WakaTime
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2020%20mins-blue)
 
@@ -80,6 +83,10 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
  Last Updated on 13/01/2025 18:47:19 UTC
 <!--END_SECTION:waka-->
+
+<p align='center'>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
+</p>
 
 <!--
 **ho-ya-kim/ho-ya-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
