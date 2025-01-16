@@ -10,8 +10,8 @@
 
 ## Languages
 <p align='center'>
-<img align='center' src="https://github-readme-stats-zeta-azure-78.vercel.app/api/top-langs/?username=seohokim-hoya&langs_count=18&layout=compact&theme=dracula">
-<img align='center' src="https://github-readme-stats.vercel.app/api/wakatime?username=hoyakim">
+<img align='center' src="https://github-readme-stats-zeta-azure-78.vercel.app/api/top-langs/?username=seohokim-hoya&langs_count=18&theme=dracula">
+<img align='center' src="https://github-readme-stats.vercel.app/api/wakatime?username=hoyakim&langs_count=18&theme=dracula">
 </p>
 
 
