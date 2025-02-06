@@ -28,8 +28,6 @@
 
 > 📦 GitHub의 72.1 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 32 만큼의 Contributions을 2025년에 했어요
- > 
 > 🚫 구직중이지 않아요.
  > 
 > 📜 9개의 Public Repository를 만들었어요. 
@@ -94,7 +92,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/seohokim-hoya/seohokim-hoya/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2025 18:45:27 UTC
+ Last Updated on 06/02/2025 18:45:25 UTC
 <!--END_SECTION:waka-->
 
 <p align='center'>
